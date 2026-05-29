@@ -7,6 +7,8 @@ from openai import OpenAI
 from gtts import gTTS
 import pygame
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 # pip install pocketsphinx
 
